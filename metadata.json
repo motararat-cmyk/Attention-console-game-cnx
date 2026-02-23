@@ -1,0 +1,7 @@
+{
+  "name": "Attention console game cnx",
+  "description": "A premium PS5 gaming cafe booking platform featuring high-end stations, real-time AI game recommendations, and age-restricted access control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
